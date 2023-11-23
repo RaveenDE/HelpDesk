@@ -2,7 +2,7 @@
 
 ## Overview
 
-The University Help Desk Management System is a dynamic Java web application developed by a group of dedicated university students to streamline and enhance the efficiency of the university's help desk operations. This system provides a centralized platform for students to raise tickets, seek assistance, and receive timely responses from lecturers.
+The University Help Desk Management System is a dynamic Java web application to streamline and enhance the efficiency of the university's help desk operations. This system provides a centralized platform for students to raise tickets, seek assistance, and receive timely responses from lecturers.
 
 ## Features
 
